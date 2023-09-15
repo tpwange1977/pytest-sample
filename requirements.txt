@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+loguru
+requests
+pytest
+pytest-cov
